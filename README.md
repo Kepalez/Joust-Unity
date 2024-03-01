@@ -1,2 +1,2 @@
 # Joust-Unity
-Joust port made in entirely with the Unity Engine 
+Joust port made entirely with the Unity Engine 
