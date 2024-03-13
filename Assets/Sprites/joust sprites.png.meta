@@ -1,0 +1,4259 @@
+fileFormatVersion: 2
+guid: bc7df07eb34c8a944a0a43a05831122f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: joust sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 68
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13164fa6f8a0d254a834bda799d68664
+      internalID: 314500569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 496
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5afc0998ba91b44ae33bdaf12bc608
+      internalID: 742388887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 491
+        width: 180
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630a752533fae624ea589c3b596cc415
+      internalID: -1329203378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_3
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 494
+        width: 130
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401c5faaf71918c4faae45344cfeca2c
+      internalID: -2098904924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_4
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 406
+        width: 45
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045a86069162f2b4a9a543b8284924d5
+      internalID: -1168725999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 118
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f517a98668499bf448bd33803a32f312
+      internalID: 1273350386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 467
+        width: 94
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4468033aaaa3de640bd0e91cf38638c1
+      internalID: 454684993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 465
+        width: 131
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42546d027b615dc478f5ff253f065961
+      internalID: 1811517683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 456
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07863c9e7af83841add49fded319691
+      internalID: 907781638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 459
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8b33e94cbbfda4b85de918117cf7ed
+      internalID: 1675377514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 375
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbe3f313022e564cb36d3213e25b6d2
+      internalID: 1243732164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 403
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfde205f670b92041841abffadf52cd6
+      internalID: 389467149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_12
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 403
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07349fc386ad4b24aa13274308b46c4f
+      internalID: 2016983978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_13
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 403
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65038ee37370fc48a72f73dd3d9b4e5
+      internalID: 1462178898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_14
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 403
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1cb406877e95f4a88bc4e13a07688e
+      internalID: -623652143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f028ea8e398efd146977ba06598b5148
+      internalID: 792707547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480d538b9e4c96448afa305591c46b82
+      internalID: -1885120572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 353
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a0d147c782e1b4886c9caa0736c114
+      internalID: 746356460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 353
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4ee256b11d30140a696b2011d885fa
+      internalID: 897945672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 353
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4b7add7f95ee442b5845411068fedf
+      internalID: -885768282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_20
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 353
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfb216ae54bfc84f8af81a3c515f3eb
+      internalID: -1803113481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 356
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dfcf028cea3e14692b73157dff2e79
+      internalID: 196765908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 365
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0f7655a31d1254fa344f4ca5ee58fb
+      internalID: 1546850434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 368
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f664cbca4c8c949802a14c2810308c
+      internalID: 1630441420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 353
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20b8c82464d94342870db13b314541a
+      internalID: -50894967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_25
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 353
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3ce59ad2eaa614584128545451eb06
+      internalID: -401186374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 353
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5a461117f9ba844af91ef1d687bbc2
+      internalID: -331408868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_27
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 353
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab7171dc0e46844c8cff15912105581
+      internalID: 828953542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_28
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 358
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9afae8c8c3cd6a48b51a6dbad13095f
+      internalID: -722866010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 318
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e19b10d1dbc1034989b389e7a0849da
+      internalID: -1560120497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 318
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6774acc2be62447b485874bf8a8e54
+      internalID: -317987867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 304
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0600c58e857d74e4182f3ab9b5056242
+      internalID: 1461427934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_32
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 304
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2253e741631c04409ba28c164ebd826
+      internalID: -432203800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_33
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 304
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b58bd8dd4bf0d4f8685dba5664bb78
+      internalID: -1423667154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_34
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 304
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0873c284aade14ea2d0a8904c19f64
+      internalID: -1554139422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_35
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 307
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f8176b13f26824685f0c53472c2036
+      internalID: 764458599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_36
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 318
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70d50268aa0f7749b4dc52644349c7b
+      internalID: -119005781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_37
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 318
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6fb7661472e1249a6bdc5bdb01d106
+      internalID: 1694576304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_38
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 315
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7d96a23de9a1499fd525e91e6475c
+      internalID: 1156795608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_39
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 315
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f1530293457a3458d001afbf522c95
+      internalID: 288922838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_40
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 315
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b35cd205d4744992eadefb65c9f51
+      internalID: 186672209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_41
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 315
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5da8e7d4aeccb41bc93379b82f0c19
+      internalID: 1931575494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_42
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 318
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69506b937f6e5042b0a4c391b24352a
+      internalID: 1931802892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 277
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794961befcbd3d248976560bd7ad92b7
+      internalID: -1992533535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 268
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dda957f96ad98940a4721266d4d0f74
+      internalID: -1667827250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_45
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 266
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacfa7dea5603d24589371f223db3f03
+      internalID: 1812100694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_46
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 266
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe8e672f145c694ba79dd7685166b00
+      internalID: -1468262110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 266
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54f0b95c82f6d04ab70ab41738ef480
+      internalID: -1633839560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 266
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb116af54916df43b7885e29d6f9d6e
+      internalID: 1083142470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_49
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 268
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17e69909ef043444a0ddfa0bba750a0
+      internalID: -1674688603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_50
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 277
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9f6383454145d4fb9ae0d9450d02c1
+      internalID: 1845636122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_51
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 268
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bc5ca28a5454047929fcc8be32dbfc
+      internalID: -124398589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_52
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 280
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725772f101fa12e40b0320f1ba6c3c20
+      internalID: -920940296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_53
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 280
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b13a4bed5ff344ea4df6dfbfee0122
+      internalID: -980014728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_54
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 280
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9846c6dabc443843ad7fec40bef95e5
+      internalID: -940300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_55
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 280
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4387d573401c041b00512a0b964751
+      internalID: -1932218163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_56
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 280
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45492e1f6df0e6e479b9c5633279bc06
+      internalID: -2115701894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 242
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e58eaa1cd8ec744d96fad5ae72734b8
+      internalID: 1762777257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_58
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 231
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2216aee1742b1144d859e0af515a94cb
+      internalID: 565645265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_59
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 242
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7740ec03c05638418bf34f00d97f9e0
+      internalID: 1182511836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_60
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 242
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a85230d730e5f4eb3d40f51a678355
+      internalID: 1611338871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_61
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 231
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a8a3951f58b914b8d52fdd42958778
+      internalID: 1958229932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_62
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 242
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a530b45ba378e2458a012eb60556f45
+      internalID: 631096196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_63
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 242
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9b49a62c6215a48b62bec44eb0af15
+      internalID: -1198385758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_64
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 231
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8848064b24a2e524b9d09c9f1fe862ad
+      internalID: -892845932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_65
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 242
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8032770a184cc4e91c5c673df79db7
+      internalID: 1702277912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_66
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 244
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0348c418f1d684387edb1a4ea6740e
+      internalID: 1076653505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_67
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 244
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dec8aa85d100d243ba85c7b236d87f3
+      internalID: 2035807597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_68
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 244
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093e137e05740f84896e497f95b844d4
+      internalID: 1930932705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_69
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 233
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d9d561e68b8bc429a52eeb16ac8181
+      internalID: 786723715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_70
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 250
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c7889e324d8074a9d0a3a528e556d8
+      internalID: 1260255396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_71
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 231
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b36502a627e8284d93fe938efb5c0ef
+      internalID: 57416012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_72
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 248
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e00b8061509894db9acca6d02c2234
+      internalID: 379138752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_73
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 244
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15ea3ad4471f9449a6f3441cbd60a28
+      internalID: 1944046711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_74
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 237
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3af11ba37d3b574cac1eccfb2c1a759
+      internalID: -55687203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 237
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7647e3f2bda16874bb19c1254dab6b49
+      internalID: 1057460171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_76
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 225
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fcaa8b44a1ffd4e824e86696d3cbae
+      internalID: 1957100077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_77
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd65a0ac7c20b448849f8a94d45536c
+      internalID: -249390391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_78
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 236
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b29304e6c2f374db996e54b404c734
+      internalID: 426959422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bae0ccd5a7cafe4e82273dc1b22b188
+      internalID: -2052306489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_80
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 180
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6a7a7da1bd980479d57a66ac9e3ab5
+      internalID: -813762262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_81
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 204
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e6d316818e09049ae2f4d6d72cfbce
+      internalID: 78478031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 200
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0213c2e240d6f945afa8b512bc7ce68
+      internalID: -1902785936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_83
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 207
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a873a95b6e40d489c15a09725e1ee6
+      internalID: 2110670948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_84
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 189
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d89bb99eb163d248a1ca80f3350c599
+      internalID: -1792652913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_85
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 187
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a9a0b1a5c5eb1468c7ac7f83deb64a
+      internalID: -935881033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_86
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 192
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ac4ba98de9be84882f0aaf02bd0aad
+      internalID: -910980104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_87
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 206
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f0f2fafa13de84c9ebbd49aa04c85d
+      internalID: -1410327969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_88
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 198
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353eff697eab09c4b89fbdf313bbc568
+      internalID: -1883547794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 193
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf04be7bc17b234180da87ce6b7fac2
+      internalID: -1553328759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_90
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 195
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8dcdb765944e844a6a3d973a39eb16
+      internalID: 699382703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_91
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 201
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ddfd987021dfb40979dcbdca2636b6
+      internalID: 1142108883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_92
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 193
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf7f2fb5595122458ae2666cfbec8c6
+      internalID: -2114112371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_93
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 201
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1dcd1b8f228284bbce7a46d8a41373
+      internalID: 2090160424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_94
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 201
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cb52f786e07624da1ad5bc6ca11b03
+      internalID: -1261923622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_95
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 201
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2771120a0381fea4bbecdfcce4ab9b77
+      internalID: 1878121403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_96
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 201
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c2d5d9f2bb46a4b8745657e9e49075
+      internalID: -1485768524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5691cb30ffefa44d982eb8428e5ff7e
+      internalID: 599743103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044c0816339902e4faf6adacc561a0d3
+      internalID: 1446743492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8116b4d08ae851a448305a8403fe9208
+      internalID: 767303668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b628b325488c3d4a9517bbddfc80200
+      internalID: 1308255388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_101
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 111
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78f4fc726c0e634a922dee6e6317683
+      internalID: 968114738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_102
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 155
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232ddb49a1fdbaf439345c91946e2a8c
+      internalID: -683449298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_103
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 131
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4d0486c5fcd8e46ad6f12fe045e321
+      internalID: 2137501675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_104
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 111
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b2c8ae0fd9d954c9ee25dbf5f6bf66
+      internalID: 801892869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_105
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70df8f19684e6d449d5d4513a4c2541
+      internalID: -1763752009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 131
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5a2689588209e43b20afbe0531545a
+      internalID: 1536680291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_107
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 111
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c357f03fc7a034e92a05d79c090144
+      internalID: -1492686858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_108
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25f421a49ed90e4bb606c6fe96d8620
+      internalID: 796464371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_109
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 131
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f5431b845cfe14080c015cf829c8e0
+      internalID: 2114391533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_110
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 111
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda433d140411564b8a45122649d1e35
+      internalID: 1951856481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_111
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5105664aedf0f4482ecbca1ff704aa
+      internalID: -1833434672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_112
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 111
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e844b74549f5b8349ad0b23342629f95
+      internalID: 2047728851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_113
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 131
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaa6a5657ba3c341af3fb7adc5393db
+      internalID: -1478286659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_114
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 111
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0af15937e53664faf134a0dad1c0c5
+      internalID: 1106066476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_115
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a2e71640ea92a439138b4c7022a9f4
+      internalID: -1178892214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_116
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 136
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57019ceef5bccb04088c4241730be592
+      internalID: 1046908137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_117
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a829b6a5a6be2b6479ca0a22adbad446
+      internalID: -1833234935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_118
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98d87fc25f0dd848aab4f1f74039e38
+      internalID: 1295625574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_119
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 137
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454e9ed3e56232347986ccdbe278b9e6
+      internalID: -770382161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_120
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 111
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42811ee6e1233694797fb5ee040cebad
+      internalID: 811485969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_121
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1738924be9f15a46a028de7f82fed57
+      internalID: 614227670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_122
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 131
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1857fbaee3b40eb40a1e784dbd984e38
+      internalID: -196462064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_123
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 111
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b7363e7c0586844bc2a68de831f727
+      internalID: -968013013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_124
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163e1c68207683b4d87beab1a375a373
+      internalID: -170707476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_125
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 131
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36832bd837814cf47bc5dd33afd535c5
+      internalID: 1908794317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_126
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 111
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b897870a7207745a6fc1be2ef7ed66
+      internalID: -1304005827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_127
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 131
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50a1aca402c0a94cbb0040dbd4c7295
+      internalID: 595683888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_128
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f361a03d4b6aa9d4d9db42c65eb99e3e
+      internalID: 144600427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_129
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 111
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b40b3939b565ee448f3d2e8846acb35
+      internalID: 2046929983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_130
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 131
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199dee61888b602479b208a0ad0f5c31
+      internalID: -1419909292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_131
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885d6c9686495c7439a76c276d06fe6c
+      internalID: 1494084769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_132
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 111
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93267e1a22e3c184a8a884bab3e77d0b
+      internalID: -1629962522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_133
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 140
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1583b70c612b2514e8faefbebcfeff4d
+      internalID: 762967366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_134
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 111
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e61d0e34394748b1edd746e7e9a50
+      internalID: 1697812637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_135
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ee2e4ac970f1c4fae857915c1c1716
+      internalID: 97955597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_136
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 131
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e03703f42da934dbc4c1b8a342ca06
+      internalID: -2020101697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 111
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024f1d9f9b7cdf046b339bfd820ef279
+      internalID: -650258049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_138
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 134
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e604999b96c07a34eb636542279cdafb
+      internalID: 388385179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_139
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efe0c1def5d9824c8678e383db4c416
+      internalID: -367693882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_140
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 131
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcaabd8b6ebbe3479445b700d6be4ea
+      internalID: 1602992822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_141
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3056217ef2af05548bf45f4d373e8c29
+      internalID: -650691229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_142
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413fcf7d6f62f7743aa69acd159d1ed5
+      internalID: 216902404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_143
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 131
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a213e64328eee0740b1c3ba3ef867933
+      internalID: -1407615826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_144
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 111
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40454501ff868040890654cb2e07c8b
+      internalID: -822266647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_145
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 155
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1a007c7362b1e4980b18549441cf4e
+      internalID: 1389391215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_146
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 111
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d1fdcfd5e7db3439583199a20ebdcd
+      internalID: 576037761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_147
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 142
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae804f9cc8f40d45b12327362095520
+      internalID: 582515542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_148
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 134
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0459ce3290aed454e8ea3fdb25b98dc6
+      internalID: 334577069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_149
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 155
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b415c652210bfa74aa5523d782f54ef3
+      internalID: -1960610593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_150
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 111
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224a5a58dc6c4b44588e795f32971bbb
+      internalID: 1315887765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_151
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 136
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619700d59d085f04ba1eb77331464359
+      internalID: 1369457763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_152
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca9d2ca0e0455545b323ee1e6092412
+      internalID: 722394135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_153
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 111
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e60279ea024d14ab41266036a6a820
+      internalID: 1956538784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_154
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 136
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddba6a590e8195409d9bbfc05ff8f50
+      internalID: -2026667726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_155
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 113
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3303ca7f790417479b6311e7c218cb1
+      internalID: 957645741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_156
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d3bbf840fdd4243b92180e8e44db4b
+      internalID: -2097922701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_157
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 136
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad92dd7b12f1c4439c459cf7f4b0078
+      internalID: 772591648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_158
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 116
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44337bff1d6b6d46b97d88d4f1abffc
+      internalID: 1085420215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_159
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 136
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fbe0b8c8c22ff4e8a5f20c1ffe90bb
+      internalID: -1889190447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_160
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 155
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3b2067a4556514db36f1fa9d0db5a7
+      internalID: 2123113253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_161
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 136
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeca34b9755b424fa5a77f429658d3c
+      internalID: 261628536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_162
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d230d2675c4c449bbe1d670f4c6a65
+      internalID: -2018782764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_163
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 111
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3f05929db3fd243a7626871774fb87
+      internalID: -245499378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_164
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 136
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e6b6e99b97f6546bf9b49e5a151046
+      internalID: -1698930872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_165
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 111
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689089adb22dd95409cbb735dd50529d
+      internalID: 1340190368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_166
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 155
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac550137b3c431469c963f7ab49063c
+      internalID: -255008880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_167
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 136
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd998798e8560a041882ddbef3c2e276
+      internalID: 789796883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_168
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 111
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414a40bac914fdb4a8d343db32e0d4ca
+      internalID: -46400599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_169
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 136
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b746d18bf1292c9489a4ab836b7462b2
+      internalID: 351248622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_170
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77d81840897b444b8928e7a4aa5b68c
+      internalID: -874280241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_171
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 111
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e961fdc63200f4eb72b71c3dd15923
+      internalID: -19856668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_172
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 136
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84242f6c5aec983458494b6c90337b93
+      internalID: 1307179701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_173
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d192e874a3f065340b450f6a0f5a9fa0
+      internalID: 435804315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_174
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 136
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6272127fb9d7deb4fae4c4011f955693
+      internalID: 1630934711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_175
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362012c497ff3e54a80eaaa7218b2aef
+      internalID: -1600106386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_176
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31366d93bc63c3c468bc961a00238769
+      internalID: 653504386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_177
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 136
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8136109e6ca94ac42beeb5eba809fa46
+      internalID: 1384449998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_178
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c538466b6f6f1784291e1a5bc249c6a4
+      internalID: -149265620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_179
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 108
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11ef3142410f464b9da963421c27ccd
+      internalID: 137813341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_180
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 136
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dee8078a4e87f4baa5c6a11884f663
+      internalID: 394387525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_181
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 136
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26567ae06b8cf7145a3e324732e4ba27
+      internalID: 438437766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_182
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 108
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ce7d100bba5ba4d84536fdaa8bfc4b
+      internalID: -1021516983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_183
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ee578a44009d043a7e07650db3f0ba
+      internalID: -1955705333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_184
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 136
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dd95a290e360c48bb3b5f2fc19837b
+      internalID: 106272078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_185
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 155
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8820ad9a5d13a4c97419321428479b
+      internalID: -1348807824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_186
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 136
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5381164514a694daef5443ad25e241
+      internalID: 1253183908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joust sprites_187
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 112
+        width: 15
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a82e6feb2941ae4eaf995cda0d7968b
+      internalID: -561766154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      joust sprites_7: 1811517683
+      joust sprites_151: 1369457763
+      joust sprites_144: -822266647
+      joust sprites_105: -1763752009
+      joust sprites_32: -432203800
+      joust sprites_136: -2020101697
+      joust sprites_137: -650258049
+      joust sprites_184: 106272078
+      joust sprites_10: 1243732164
+      joust sprites_179: 137813341
+      joust sprites_111: -1833434672
+      joust sprites_118: 1295625574
+      joust sprites_25: -401186374
+      joust sprites_145: 1389391215
+      joust sprites_172: 1307179701
+      joust sprites_106: 1536680291
+      joust sprites_82: -1902785936
+      joust sprites_69: 786723715
+      joust sprites_115: -1178892214
+      joust sprites_19: -885768282
+      joust sprites_20: -1803113481
+      joust sprites_53: -980014728
+      joust sprites_33: -1423667154
+      joust sprites_57: 1762777257
+      joust sprites_99: 767303668
+      joust sprites_12: 2016983978
+      joust sprites_113: -1478286659
+      joust sprites_17: 746356460
+      joust sprites_168: -46400599
+      joust sprites_29: -1560120497
+      joust sprites_124: -170707476
+      joust sprites_108: 796464371
+      joust sprites_135: 97955597
+      joust sprites_159: -1889190447
+      joust sprites_18: 897945672
+      joust sprites_47: -1633839560
+      joust sprites_60: 1611338871
+      joust sprites_13: 1462178898
+      joust sprites_54: -940300018
+      joust sprites_101: 968114738
+      joust sprites_103: 2137501675
+      joust sprites_125: 1908794317
+      joust sprites_109: 2114391533
+      joust sprites_90: 699382703
+      joust sprites_34: -1554139422
+      joust sprites_37: 1694576304
+      joust sprites_8: 907781638
+      joust sprites_85: -935881033
+      joust sprites_45: 1812100694
+      joust sprites_65: 1702277912
+      joust sprites_4: -1168725999
+      joust sprites_161: 261628536
+      joust sprites_80: -813762262
+      joust sprites_167: 789796883
+      joust sprites_83: 2110670948
+      joust sprites_139: -367693882
+      joust sprites_176: 653504386
+      joust sprites_181: 438437766
+      joust sprites_164: -1698930872
+      joust sprites_36: -119005781
+      joust sprites_174: 1630934711
+      joust sprites_112: 2047728851
+      joust sprites_15: 792707547
+      joust sprites_152: 722394135
+      joust sprites_130: -1419909292
+      joust sprites_154: -2026667726
+      joust sprites_70: 1260255396
+      joust sprites_126: -1304005827
+      joust sprites_178: -149265620
+      joust sprites_166: -255008880
+      joust sprites_116: 1046908137
+      joust sprites_104: 801892869
+      joust sprites_77: -249390391
+      joust sprites_182: -1021516983
+      joust sprites_96: -1485768524
+      joust sprites_148: 334577069
+      joust sprites_128: 144600427
+      joust sprites_40: 186672209
+      joust sprites_100: 1308255388
+      joust sprites_31: 1461427934
+      joust sprites_162: -2018782764
+      joust sprites_95: 1878121403
+      joust sprites_160: 2123113253
+      joust sprites_14: -623652143
+      joust sprites_30: -317987867
+      joust sprites_165: 1340190368
+      joust sprites_6: 454684993
+      joust sprites_175: -1600106386
+      joust sprites_146: 576037761
+      joust sprites_163: -245499378
+      joust sprites_28: -722866010
+      joust sprites_55: -1932218163
+      joust sprites_52: -920940296
+      joust sprites_88: -1883547794
+      joust sprites_110: 1951856481
+      joust sprites_23: 1630441420
+      joust sprites_26: -331408868
+      joust sprites_43: -1992533535
+      joust sprites_46: -1468262110
+      joust sprites_129: 2046929983
+      joust sprites_3: -2098904924
+      joust sprites_5: 1273350386
+      joust sprites_41: 1931575494
+      joust sprites_114: 1106066476
+      joust sprites_156: -2097922701
+      joust sprites_2: -1329203378
+      joust sprites_149: -1960610593
+      joust sprites_134: 1697812637
+      joust sprites_157: 772591648
+      joust sprites_56: -2115701894
+      joust sprites_78: 426959422
+      joust sprites_72: 379138752
+      joust sprites_49: -1674688603
+      joust sprites_73: 1944046711
+      joust sprites_71: 57416012
+      joust sprites_153: 1956538784
+      joust sprites_138: 388385179
+      joust sprites_183: -1955705333
+      joust sprites_132: -1629962522
+      joust sprites_87: -1410327969
+      joust sprites_0: 314500569
+      joust sprites_122: -196462064
+      joust sprites_64: -892845932
+      joust sprites_16: -1885120572
+      joust sprites_24: -50894967
+      joust sprites_143: -1407615826
+      joust sprites_59: 1182511836
+      joust sprites_48: 1083142470
+      joust sprites_186: 1253183908
+      joust sprites_117: -1833234935
+      joust sprites_86: -910980104
+      joust sprites_89: -1553328759
+      joust sprites_22: 1546850434
+      joust sprites_21: 196765908
+      joust sprites_44: -1667827250
+      joust sprites_9: 1675377514
+      joust sprites_62: 631096196
+      joust sprites_140: 1602992822
+      joust sprites_94: -1261923622
+      joust sprites_171: -19856668
+      joust sprites_180: 394387525
+      joust sprites_169: 351248622
+      joust sprites_79: -2052306489
+      joust sprites_187: -561766154
+      joust sprites_81: 78478031
+      joust sprites_1: 742388887
+      joust sprites_50: 1845636122
+      joust sprites_38: 1156795608
+      joust sprites_121: 614227670
+      joust sprites_123: -968013013
+      joust sprites_97: 599743103
+      joust sprites_133: 762967366
+      joust sprites_66: 1076653505
+      joust sprites_92: -2114112371
+      joust sprites_177: 1384449998
+      joust sprites_91: 1142108883
+      joust sprites_102: -683449298
+      joust sprites_120: 811485969
+      joust sprites_42: 1931802892
+      joust sprites_35: 764458599
+      joust sprites_107: -1492686858
+      joust sprites_185: -1348807824
+      joust sprites_75: 1057460171
+      joust sprites_76: 1957100077
+      joust sprites_67: 2035807597
+      joust sprites_63: -1198385758
+      joust sprites_158: 1085420215
+      joust sprites_150: 1315887765
+      joust sprites_142: 216902404
+      joust sprites_155: 957645741
+      joust sprites_119: -770382161
+      joust sprites_147: 582515542
+      joust sprites_61: 1958229932
+      joust sprites_170: -874280241
+      joust sprites_173: 435804315
+      joust sprites_68: 1930932705
+      joust sprites_127: 595683888
+      joust sprites_141: -650691229
+      joust sprites_131: 1494084769
+      joust sprites_74: -55687203
+      joust sprites_11: 389467149
+      joust sprites_93: 2090160424
+      joust sprites_39: 288922838
+      joust sprites_98: 1446743492
+      joust sprites_51: -124398589
+      joust sprites_84: -1792652913
+      joust sprites_58: 565645265
+      joust sprites_27: 828953542
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
